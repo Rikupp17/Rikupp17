@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**Rikupp17/Rikupp17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Marc Stiehm
+### City: Berlin
+#### Country: Germany
+#### Email: marc.stiehm@dci-student.org
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience 
+| Programming Language | Years of Experience |
+|----------------------|---------------------|
+| Java                 | 1                   |
+| C#                   | 4                   |
+| CSS                  | 2                   |
+
+
+```java
+Java: System.out.println("Hello, world!");
+```
+
+ ```Css
+Css: color: #333;
+```
+
+```C#
+C#: Console.WriteLine("Hello, world!");
+```
+
+```C++
+C++: std::cout << "Hello, world!" << std::endl;
+```
